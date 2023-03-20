@@ -329,8 +329,15 @@ renewal in a timely fashion
 New projects should have an MVP as outlined in Article VI Section 2.
 
 ## XII. Remuneration
-Writers Guild role and bounty payments are remunerated monthly to avoid high
+1. Writers Guild role and bounty payments are remunerated monthly to avoid high
 gas costs.
+2. If remuneration is scheduled but the payee has not provided a wallet address, the Guild Treasurer will make best efforts to collect said wallet address including three requests within a minimum six-week timeframe as outlined below:
+
+2.a. First request will be made by the Guild Treasurer after the payee’s work is completed and logged at the end of the month when remuneration is scheduled.
+2.b. Second request follows at a minimum two weeks after the first request if the payee did not respond to the first request.
+2.c. Third request follows at a minimum two weeks after the second request if the payee did not respond to the second request.
+2.d. Payment becomes void and is archived as “expired” at a minimum of two weeks after the third request is made. The Guild Treasurer maintains authority to mark payments as “expired” at either the timeframe set above, or at the end of a season ending minimum two weeks after the third request is made.
+
 
 ## XIII. Amendments
 1. Amendments to the Writers Guild Governance Framework may be proposed by
